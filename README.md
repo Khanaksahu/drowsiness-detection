@@ -1,6 +1,7 @@
 # drowsiness-detection
 
-We'll create a Python drowsiness detection system using OpenCV and Keras to prevent accidents caused by sleepy drivers on highways. In this Python project, we aim to create a drowsiness detection system to address the issue of drowsy driving, which poses a significant danger on highways. Drivers such as taxi drivers, bus drivers, truck drivers, and individuals undertaking long-distance journeys often struggle with sleep deprivation, making it unsafe for them to operate vehicles while feeling drowsy.
+We'll create a Python drowsiness detection system using OpenCV and Keras to prevent accidents caused by sleepy drivers on highways.
+In this Python project, we aim to create a drowsiness detection system to address the issue of drowsy driving, which poses a significant danger on highways. Drivers such as taxi drivers, bus drivers, truck drivers, and individuals undertaking long-distance journeys often struggle with sleep deprivation, making it unsafe for them to operate vehicles while feeling drowsy.
 
 Drowsy driving is a leading cause of accidents, emphasizing the need for preventive measures. Therefore, we will utilize the power of Python, along with the libraries OpenCV and Keras, to develop a system that can detect signs of drowsiness and alert the driver accordingly.
 
